@@ -1,0 +1,2 @@
+# STARS
+Simple Eureka
